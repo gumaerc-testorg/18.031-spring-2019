@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-031-system-functions-and-the-laplace-transform-spring-2019/e3c09f0c84a089cd3f46a54fc4b25f2d_5HfMEUO9vlY.pdf
+file: /media/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/e3c09f0c84a089cd3f46a54fc4b25f2d_5HfMEUO9vlY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: e3c09f0c-84a0-89cd-3f46-a54fc4b25f2d

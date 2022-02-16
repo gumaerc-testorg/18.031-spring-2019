@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-031-system-functions-and-the-laplace-transform-spring-2019/9d3eaa60485a39e579c0080fd24e5d30_ch3-th.jpg
+file: /media/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/9d3eaa60485a39e579c0080fd24e5d30_ch3-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: ch3-th.jpg
 uid: 9d3eaa60-485a-39e5-79c0-080fd24e5d30
