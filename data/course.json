@@ -36,7 +36,10 @@
     "content": "155ea118-8890-7db6-da7c-fba56a79217b",
     "website": "18-031-system-functions-and-the-laplace-transform-spring-2019"
   },
-  "learning_resource_types": [],
-  "site_uid": "2caa28fd-73ff-4bfe-ae62-140b778e37ef",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "24ca5764-ba15-430d-9ce2-de2bc1607170",
+  "short_id": "18.031-spring-2019",
   "title": "Course Metadata"
 }
