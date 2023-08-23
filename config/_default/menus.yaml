@@ -1,7 +1,7 @@
 leftnav:
 - identifier: 6de678fd-f542-ae23-9de0-55d7b2f9baa1
   name: Instructor Insights
-  url: /pages/instructor-insights
+  pageRef: /pages/instructor-insights
   weight: 10
 - identifier: external-a2b8ab50032a470e98db3c0b6204695e
   name: Online Publication
