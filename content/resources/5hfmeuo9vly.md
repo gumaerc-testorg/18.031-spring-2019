@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-031-system-functions-and-the-laplace-transform-spring-2019/4871e71cc9bdfcc22c411f38aded2eb3_5HfMEUO9vlY.srt
+file_size: 10913
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
