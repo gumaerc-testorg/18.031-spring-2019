@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-031-system-functions-and-the-laplace-transform-spring-2019/f04d0eacfc5ac4b152698abd1d737f35_ch2-th.jpg
+file: /ol-ocw-studio-app/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/f04d0eacfc5ac4b152698abd1d737f35_ch2-th.jpg
 file_size: 24234
 file_type: image/jpeg
 image_metadata:
