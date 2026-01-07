@@ -62,7 +62,7 @@ Unrestricted elective credits ![](/images/educator/icon-question-unrestrict.png)
 
 ### Offered
 
-Once or twice per year, in the fall or spring semester or in the {{% resource_link "cf40fc1f-d585-4343-93e2-f0351a0ddfe0" "Independent Activities Period" %}} (IAP)
+Once or twice per year, in the fall or spring semester or in the [Independent Activities Period](https://web.mit.edu/iap/) (IAP)
 
 ## Student Information
 
